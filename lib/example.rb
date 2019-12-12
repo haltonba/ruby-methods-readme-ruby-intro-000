@@ -1,13 +1,17 @@
 # Use this space to code along with the readme
 
-phrase = "Hello World!"
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
+def chirp_five_times
+  tweet = "chirp"
+  puts tweet
+  puts tweet
+  puts tweet
+  puts tweet
+  puts tweet
+  puts tweet
+  puts tweet
+  puts tweet
+  puts tweet
+  puts tweet
+end
+
+chirp_five_times
